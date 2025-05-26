@@ -3,7 +3,7 @@
 👨‍💻 Welcome to my digital journal on GitHub! I'm a Software Engineering student at Western University, gearing up to graduate in April 2024. Currently honing my skills at HP Tech Ventures as a Business Analyst and as a Research Assistant at Western University.
 
 ## About My Journey
-- 🎓 Finsihing up a Bachelor of Engineering in Software Engineering at Western University.
+- 🎓 Finishing up a Bachelor of Engineering in Software Engineering at Western University.
 - 💼 Bringing data to life as a Business Analyst at HP Tech Ventures.
 - 🔬 Conducting NLP research as a Research Assistant at Western University.
 - 📊 Previously interned at Mobalytics, diving into meaningful insights and building clean visualizations
